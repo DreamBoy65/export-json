@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongoose": "^8.3.2",
+    "pg": "^8.11.5"
+  },
+  "name": "export-json",
+  "version": "1.0.0",
+  "description": "a package to export json data to various dbs",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
